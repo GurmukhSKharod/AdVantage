@@ -1,11 +1,6 @@
 # AdVantage
 A Full-Stack web-based SaaS marketing automation platform, that allows buisnesses to streamlines campaigns, track user engagement, and view interactive analytics, using a responsive design.
 
-
-# **AdVantage**
-
-**AdVantage** is a modern marketing automation platform that simplifies campaign management, tracks engagement, and provides actionable insights.
-
 ---
 
 ## **Technologies Used**
