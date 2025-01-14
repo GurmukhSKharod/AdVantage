@@ -59,3 +59,46 @@ A Full-Stack web-based SaaS marketing automation platform, that allows buisnesse
 git clone https://github.com/your-username/AdVantage.git
 cd AdVantage
 ```
+
+#### **2. Setup the Backend**
+```bash
+cd backend
+npm install
+```
+
+#### **3. Create a .env file:**
+```bash
+DB_HOST=localhost
+DB_USER=your_postgres_user
+DB_PASS=your_postgres_password
+DB_NAME=ad_vantage
+JWT_SECRET=your_secret_key
+PORT=5000
+```
+
+#### **4. Initialize the Database:**
+```bash
+npx sequelize-cli db:create
+npx sequelize-cli db:migrate
+```
+
+#### **5.  Set up the Frontend**
+```bash
+cd ../frontend
+npm install
+npm start
+```
+
+#### **6. Clone the Repository**
+```bash
+git clone https://github.com/your-username/AdVantage.git
+cd AdVantage
+```
+
+#### **7.  Access the App on your Local Machine**
+```bash
+Frontend: http://localhost:3000
+Backend: http://localhost:5000
+```
+
+
