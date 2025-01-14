@@ -56,7 +56,7 @@ A Full-Stack web-based SaaS marketing automation platform, that allows buisnesse
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/AdVantage.git
+git clone https://github.com/GurmukhSKharod/AdVantage.git
 cd AdVantage
 ```
 
