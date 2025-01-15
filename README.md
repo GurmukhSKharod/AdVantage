@@ -89,13 +89,7 @@ npm install
 npm start
 ```
 
-#### **6. Clone the Repository**
-```bash
-git clone https://github.com/your-username/AdVantage.git
-cd AdVantage
-```
-
-#### **7.  Access the App on your Local Machine**
+#### **6. Access the App on your Local Machine**
 ```bash
 Frontend: http://localhost:3000
 Backend: http://localhost:5000
